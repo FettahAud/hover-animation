@@ -1,0 +1,17 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#home__capabilities {
+    @media (min-width: 1200px) {
+        padding: 220px 0 190px;
+    }
+    @media (min-width: 600px) {
+        padding: 120px 0 100px;
+    }
+    background-color: #dfe0e6;
+    overflow: hidden;
+    padding: 90px 0 70px;
+    position: relative;
+}
