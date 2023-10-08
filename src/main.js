@@ -1,4 +1,4 @@
-const links = document.querySelectorAll('.capabilities__list a')
+const links = document.querySelectorAll('.projects_list a')
 const background = document.querySelector('.fill-background')
 const images = document.querySelectorAll('.background__images img')
 
